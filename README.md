@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Udisha
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning audio and visual processing 
-- 💞️ I’m looking to collaborate on projects related to generative AI
+- 🌱 I’m currently learning audio and visual processing using Deep learning
+- 💞️ I’m looking to collaborate on projects related to Generative AI
 - 📫 You can reach me via email at [udisha302003@gmail.com](mailto:your-email@example.com)
 - 😄 Pronouns: she/her
 
